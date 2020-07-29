@@ -1,4 +1,4 @@
-# Make_Color
+# Color_Maker
 
 I have made this using openCV and Numpy.
 <br/>In this switch on the trackbar and then do make changes in RGB to get the color of your like.
