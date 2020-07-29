@@ -5,7 +5,7 @@ I have made this using openCV and Numpy.
 <br/>It will be helpful to find you values of R,G and B individually.
 
 # Initial opening
-![alt text]()
+![alt text](https://github.com/snehpanchal655/Color_Maker/blob/master/1.JPG)
 
 # After changing on trackbar
-![alt text]()
+![alt text](https://github.com/snehpanchal655/Color_Maker/blob/master/2.JPG)
